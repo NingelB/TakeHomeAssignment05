@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment05-NingelB</string>
+    <string name="hello_world">Hello from the DragonBoard! RAWR!</string>
+    <string name="action_setting">Settings</string>
+</resources>
